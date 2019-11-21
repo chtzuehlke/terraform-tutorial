@@ -156,8 +156,8 @@ Command:
     terraform workspace delete dev
     terraform workspace delete test
     rm -fR .terraform/
-    
-### Lessons learned
+
+### Lessons learned
 
 - Terraform can use AWS cli configuration in `~/.aws/` for authentication
 - Avoid hard-coded security configuration in .tf files

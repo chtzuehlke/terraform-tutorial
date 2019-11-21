@@ -87,7 +87,7 @@ Command:
 
     terraform apply
 
-### Lessons learned
+### Lessons learned
 
 - Use child modules to "divide and conquer" and for re-use
 - You can use `count` to make resources conditionally optional. Use this feature sparingly (increased complexity)
