@@ -18,7 +18,7 @@ Command:
 Ouput:
 
     [profile terraformtutorial]
-    region = eu-central-1
+    region = eu-central-1
     output = json
 
 Command:
@@ -28,7 +28,7 @@ Command:
 Output:
 
     [terraformtutorial]
-    aws_access_key_id = AKIASK5…
+    aws_access_key_id = AKIASK5…
     aws_secret_access_key = 2S5i0OLi…
 
 Command:
