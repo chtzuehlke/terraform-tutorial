@@ -103,7 +103,7 @@ Ouptut:
 
 Command:
 
-    aws s3api list-buckets --profile terraformtutorial --query "Buckets[].Name" --output json | grep chtz-
+    aws s3api list-buckets --query "Buckets[].Name" --output json | grep chtz-
 
 Ouptut:
 
